@@ -43,10 +43,10 @@ RM = /home/hero/Downloads/clion-2018.2.5/bin/cmake/linux/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/hero/QtProjects/camera_armordetector-master
+CMAKE_SOURCE_DIR = /home/hero/CLionProjects/armorDetector/armorDetector
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/hero/QtProjects/camera_armordetector-master/cmake-build-debug
+CMAKE_BINARY_DIR = /home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/MindVisionCamera.dir/depend.make
@@ -59,42 +59,42 @@ include CMakeFiles/MindVisionCamera.dir/flags.make
 
 CMakeFiles/MindVisionCamera.dir/src/main.cpp.o: CMakeFiles/MindVisionCamera.dir/flags.make
 CMakeFiles/MindVisionCamera.dir/src/main.cpp.o: ../src/main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/main.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/main.cpp.o -c /home/hero/QtProjects/camera_armordetector-master/src/main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/main.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/main.cpp.o -c /home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp
 
 CMakeFiles/MindVisionCamera.dir/src/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MindVisionCamera.dir/src/main.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/QtProjects/camera_armordetector-master/src/main.cpp > CMakeFiles/MindVisionCamera.dir/src/main.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp > CMakeFiles/MindVisionCamera.dir/src/main.cpp.i
 
 CMakeFiles/MindVisionCamera.dir/src/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MindVisionCamera.dir/src/main.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/QtProjects/camera_armordetector-master/src/main.cpp -o CMakeFiles/MindVisionCamera.dir/src/main.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp -o CMakeFiles/MindVisionCamera.dir/src/main.cpp.s
 
 CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o: CMakeFiles/MindVisionCamera.dir/flags.make
 CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o: ../src/MindVisionCamera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o -c /home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o -c /home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.cpp
 
 CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp > CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.cpp > CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.i
 
 CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp -o CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.cpp -o CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.s
 
 CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o: CMakeFiles/MindVisionCamera.dir/flags.make
 CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o: ../src/armordetector.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o"
-	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o -c /home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o"
+	/usr/bin/c++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o -c /home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.cpp
 
 CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.i"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp > CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.i
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.cpp > CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.i
 
 CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.s"
-	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp -o CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.s
+	/usr/bin/c++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.cpp -o CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.s
 
 # Object files for target MindVisionCamera
 MindVisionCamera_OBJECTS = \
@@ -128,7 +128,7 @@ MindVisionCamera: /usr/local/lib/libopencv_imgproc.so.3.4.3
 MindVisionCamera: /usr/local/lib/libopencv_flann.so.3.4.3
 MindVisionCamera: /usr/local/lib/libopencv_core.so.3.4.3
 MindVisionCamera: CMakeFiles/MindVisionCamera.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable MindVisionCamera"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable MindVisionCamera"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles/MindVisionCamera.dir/link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -141,6 +141,6 @@ CMakeFiles/MindVisionCamera.dir/clean:
 .PHONY : CMakeFiles/MindVisionCamera.dir/clean
 
 CMakeFiles/MindVisionCamera.dir/depend:
-	cd /home/hero/QtProjects/camera_armordetector-master/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hero/QtProjects/camera_armordetector-master /home/hero/QtProjects/camera_armordetector-master /home/hero/QtProjects/camera_armordetector-master/cmake-build-debug /home/hero/QtProjects/camera_armordetector-master/cmake-build-debug /home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/hero/CLionProjects/armorDetector/armorDetector /home/hero/CLionProjects/armorDetector/armorDetector /home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug /home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug /home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/MindVisionCamera.dir/depend
 

@@ -6,7 +6,7 @@ CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o
  ../include/CameraDefine.h
  ../include/CameraStatus.h
  ../include/MindVisionCamera.h
- /home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp
+ /home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.cpp
  /usr/local/include/opencv/cxcore.h
  /usr/local/include/opencv2/calib3d.hpp
  /usr/local/include/opencv2/calib3d/calib3d_c.h
@@ -138,7 +138,7 @@ CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o
  /usr/local/include/opencv2/videostab/wobble_suppression.hpp
 CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o
  ../include/armordetector.h
- /home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp
+ /home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.cpp
  /usr/local/include/opencv/cxcore.h
  /usr/local/include/opencv2/calib3d.hpp
  /usr/local/include/opencv2/calib3d/calib3d_c.h
@@ -274,7 +274,7 @@ CMakeFiles/MindVisionCamera.dir/src/main.cpp.o
  ../include/CameraStatus.h
  ../include/MindVisionCamera.h
  ../include/armordetector.h
- /home/hero/QtProjects/camera_armordetector-master/src/main.cpp
+ /home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp
  /usr/local/include/opencv/cxcore.h
  /usr/local/include/opencv2/calib3d.hpp
  /usr/local/include/opencv2/calib3d/calib3d_c.h

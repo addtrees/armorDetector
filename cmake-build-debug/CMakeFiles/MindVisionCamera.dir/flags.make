@@ -6,5 +6,5 @@ CXX_FLAGS = -g   -std=gnu++14
 
 CXX_DEFINES = 
 
-CXX_INCLUDES = -I/home/hero/QtProjects/camera_armordetector-master/include -isystem /usr/local/include -isystem /usr/local/include/opencv 
+CXX_INCLUDES = -I/home/hero/CLionProjects/armorDetector/armorDetector/include -isystem /usr/local/include -isystem /usr/local/include/opencv 
 

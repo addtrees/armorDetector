@@ -28,31 +28,15 @@ opencv2/opencv.hpp
 opencv2/opencv.hpp
 -
 
-/home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp
-CameraDefine.h
--
-MindVisionCamera.h
-/home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.h
-
-/home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp
-armordetector.h
-/home/hero/QtProjects/camera_armordetector-master/src/armordetector.h
-opencv2/opencv.hpp
--
-iostream
--
-
-/home/hero/QtProjects/camera_armordetector-master/src/main.cpp
+/home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp
 iostream
 -
 opencv2/opencv.hpp
 -
-math.h
--
 armordetector.h
-/home/hero/QtProjects/camera_armordetector-master/src/armordetector.h
+/home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.h
 MindVisionCamera.h
-/home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.h
+/home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.h
 
 /usr/local/include/opencv/cxcore.h
 opencv2/core/core_c.h

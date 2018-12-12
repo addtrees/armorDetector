@@ -7,5 +7,6 @@ set(CMAKE_CXX_STANDARD 14)
 add_executable(MindVisionCamera 
 src/main.cpp 
 src/MindVisionCamera.cpp 
-src/armordetector.cpp)
+src/armordetector.cpp
+        )
 target_link_libraries(MindVisionCamera ${OpenCV_LIBS})

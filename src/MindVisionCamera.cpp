@@ -25,10 +25,12 @@ MindVisionCamera::MindVisionCamera(){
     g_pRgbBuffer = (unsigned char*)malloc(tCapability.sResolutionRange.iHeightMax*tCapability.sResolutionRange.iWidthMax*3);
     CameraGetImageResolution(h_camera,&tImageResolution);
     tImageResolution.iIndex=0xff;
-    tImageResolution.iWidth=640;
-    tImageResolution.iHeight=480;
-    tImageResolution.iWidthFOV=640;
-    tImageResolution.iHeightFOV=480;
+    tImageResolution.iWidth=800;
+    tImageResolution.iHeight=600;
+    tImageResolution.iWidthFOV=800;
+    tImageResolution.iHeightFOV=600;
+    tImageResolution.iHOffsetFOV=240;
+    tImageResolution.iVOffsetFOV=212;
     CameraSetImageResolution(h_camera,&tImageResolution);
     CameraPlay(h_camera);
     CameraSetIspOutFormat(h_camera,CAMERA_MEDIA_TYPE_BGR8);

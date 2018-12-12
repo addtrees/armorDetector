@@ -1,4 +1,4 @@
-# Install script for directory: /home/hero/QtProjects/camera_armordetector-master
+# Install script for directory: /home/hero/CLionProjects/armorDetector/armorDetector
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

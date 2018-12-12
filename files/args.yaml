@@ -1,0 +1,16 @@
+%YAML:1.0
+---
+minLength: 30
+minWidth: 10
+minRatio: 2
+MaxDisX: 6
+MinDisX: 0
+MaxDisY: 6.9999999999999996e-01
+MinDisY: 0
+angleError: 10
+BMAXH: 125
+BMINH: 70
+BMAXS: 210
+BMINS: 0
+BMAXV: 255
+BMINV: 180

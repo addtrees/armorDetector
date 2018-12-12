@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/home/hero/QtProjects/camera_armordetector-master/src/MindVisionCamera.cpp" "/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o"
-  "/home/hero/QtProjects/camera_armordetector-master/src/armordetector.cpp" "/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o"
-  "/home/hero/QtProjects/camera_armordetector-master/src/main.cpp" "/home/hero/QtProjects/camera_armordetector-master/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/main.cpp.o"
+  "/home/hero/CLionProjects/armorDetector/armorDetector/src/MindVisionCamera.cpp" "/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/MindVisionCamera.cpp.o"
+  "/home/hero/CLionProjects/armorDetector/armorDetector/src/armordetector.cpp" "/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/armordetector.cpp.o"
+  "/home/hero/CLionProjects/armorDetector/armorDetector/src/main.cpp" "/home/hero/CLionProjects/armorDetector/armorDetector/cmake-build-debug/CMakeFiles/MindVisionCamera.dir/src/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
